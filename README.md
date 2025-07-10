@@ -2,6 +2,10 @@ Trained how to handle multiple CSV files, clean them, and combine them into one 
 
 
 
+\#The is project is based on a three made-up datasets just for the sake of training.
+
+
+
 \### Key Findings:
 
 &nbsp;- Laptops brings most of the profit, with total revenue over 15k.
