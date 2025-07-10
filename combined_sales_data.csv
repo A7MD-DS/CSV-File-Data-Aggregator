@@ -1,0 +1,10 @@
+Date,Product,Quantity_Sold,Unit_Price,Revenue
+2024-01-01,Laptop,5,1000,5000
+2024-01-01,Phone,10,500,5000
+2024-01-01,Headphones,3,150,450
+2024-01-02,Laptop,7,950,6650
+2024-01-02,Phone,8,520,4160
+2024-01-02,Headphones,6,160,960
+2024-01-03,Laptop,4,970,3880
+2024-01-03,Phone,11,510,5610
+2024-01-03,Headphones,5,155,775
